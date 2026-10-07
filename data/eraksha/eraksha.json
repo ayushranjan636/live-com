@@ -1,0 +1,24 @@
+{
+  "_comment": "VERIFIED eRaksha facts only. Fill from eRaksha's own documentation; every entry needs evidence (document name/URL and date). Leave arrays empty if unknown. The app shows nothing that is not in this file, except visitor-entered scenarios which are always labelled as scenarios. See docs/ERAKSHA_INPUT.md.",
+  "organisation": {
+    "name": "eRaksha",
+    "description": null,
+    "description_source": null,
+    "website": null
+  },
+  "coverage": [],
+  "_coverage_example_do_not_use": {
+    "country_iso3": "IND",
+    "status": "active | planned",
+    "scope": "e.g. 'Pilot in 12 schools, Pune' — describe exactly what is covered; a country is shaded if ANY verified service exists there",
+    "start": "YYYY-MM (actual launch) or planned date",
+    "users_reached": null,
+    "users_reached_definition": "e.g. 'registered child accounts' — required if users_reached is given",
+    "evidence": "document name / URL",
+    "as_of": "YYYY-MM-DD"
+  },
+  "outcome_evidence": [],
+  "_outcome_evidence_note": "Leave empty unless a study with a defined outcome, population, comparison and effect size exists. Without it the app shows coverage only and health-benefit calculations stay unavailable.",
+  "last_reviewed": null,
+  "reviewed_by": null
+}

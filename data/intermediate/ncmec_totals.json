@@ -1,0 +1,58 @@
+{
+  "years": {
+    "2020": {
+      "published_total": 21751085,
+      "unknown_or_unlisted": 641874,
+      "multi_jurisdiction_excluded": {},
+      "countries": 244,
+      "sum_countries": 21109211
+    },
+    "2021": {
+      "published_total": 29397681,
+      "unknown_or_unlisted": 1193266,
+      "multi_jurisdiction_excluded": {},
+      "countries": 244,
+      "sum_countries": 28204415
+    },
+    "2022": {
+      "published_total": 32059029,
+      "unknown_or_unlisted": 1662916,
+      "multi_jurisdiction_excluded": {
+        "europe": 3
+      },
+      "countries": 245,
+      "sum_countries": 30396110
+    },
+    "2023": {
+      "published_total": 36210368,
+      "unknown_or_unlisted": 1851762,
+      "multi_jurisdiction_excluded": {},
+      "countries": 243,
+      "sum_countries": 34358606
+    },
+    "2024": {
+      "published_total": 21179239,
+      "unknown_or_unlisted": 2165088,
+      "multi_jurisdiction_excluded": {},
+      "countries": 239,
+      "sum_countries": 19014151
+    },
+    "2025": {
+      "published_total": 23399834,
+      "unknown_or_unlisted": 3331777,
+      "multi_jurisdiction_excluded": {
+        "europol": 1102467
+      },
+      "countries": 242,
+      "sum_countries": 18965590
+    }
+  },
+  "raw_sha256": {
+    "data/raw/ncmec/2020-reports-by-country.pdf": "8ae0a896785c2cbb91f76b8965a613e5287abe1fb7be8e4d8d5c282f56e988f1",
+    "data/raw/ncmec/2021-reports-by-country.pdf": "ec1f91b0f1a216948742243f8824d2cb4735756ccac3fac09cc9590543b4e30e",
+    "data/raw/ncmec/2022-reports-by-country.pdf": "bfa517f9c3ead9a0f9b7dd063af786a7d5c18c438c42b9c699196b30ced0b75a",
+    "data/raw/ncmec/2023-reports-by-country.pdf": "09d0c0588507efde266a4957bd8526324cceb500b087a3af55e7a4bb4866cc32",
+    "data/raw/ncmec/2024-reports-by-country.pdf": "0be83f752636c5d6fd1d64191c5ce543033fe978b31ba374decfdb618b6c0a2c",
+    "data/raw/ncmec/2025-reports-by-country.pdf": "0ec523743c3b73d27d36404364cad50c055e73f225e9c0152b5cfe1e75cf497e"
+  }
+}
